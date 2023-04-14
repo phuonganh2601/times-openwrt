@@ -178,7 +178,7 @@ else
 	echo -e "${nmfl}: Thiếu tên miền/URL!. Vào inbox FB Nguyễn Thắng để biết thêm chi tiết."
 	logger "${nmfl}: Thiếu tên miền/URL!. Vào inbox FB Nguyễn Thắng để biết thêm chi tiết."
 fi
-
+ 
 # Sync Jam otomatis berdasarkan bug isp by AlkhaNET
 # Extended GMT+7 by vitoharhari
 # Simplify usage and improved codes by helmiau
